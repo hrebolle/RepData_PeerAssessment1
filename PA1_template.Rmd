@@ -1,8 +1,8 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: 'Reproducible Research: Peer Assessment 1'
 author: "Hugo Rebolledo"
 date: "February 10, 2016"
-output: html_document
+output: pdf_document
 ---
 
 ## Daily Activity Analysis
